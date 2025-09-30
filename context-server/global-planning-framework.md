@@ -1,3 +1,10 @@
+---
+{
+  "created_at": "0001-01-01T00:00:00Z",
+  "description": "Global planning \u0026 execution framework for AI agent operations",
+  "modified_at": "0001-01-01T00:00:00Z"
+}
+---
 # AI Agent: Strict Incremental & State-Aware Framework
 
 ## 1. Core Directive
