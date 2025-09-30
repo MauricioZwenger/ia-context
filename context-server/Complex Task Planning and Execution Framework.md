@@ -1,3 +1,10 @@
+---
+{
+  "created_at": "0001-01-01T00:00:00Z",
+  "description": "A strict framework for planning and executing complex tasks incrementally with state persistence and verification.",
+  "modified_at": "0001-01-01T00:00:00Z"
+}
+---
 # AI Agent: Strict Incremental & State-Aware Framework
 
 ## Core Directive
@@ -46,3 +53,4 @@ Your plan **MUST** be based on these principles:
   current_item: "#5"
   system_status: "GREEN" # Must be GREEN or RED
   next_action: "Proceed with the execution of the current_item." # Or a description of the fix needed
+  ```
